@@ -52,26 +52,26 @@ An end-to-end workflow was built using:
 ---
 
 ### 4. Visualization
-  - Python (Seaborn / Matplotlib):
-  ### Top Genres by Revenue
+- Python (Seaborn / Matplotlib):
+  #### Top Genres by Revenue
   This chart highlights which genres generate the highest average revenue.
   ![Top Generos por Ingreso](images/Top_generos_por_ingresos.png)
 
-  ### Revenue Evolution Over Time
+  #### Revenue Evolution Over Time
   Shows how average movie revenue has changed across years.
   ![Evolución de las Películas](images/Evolution.png)
 
-  ### Correlation Analysis
+  #### Correlation Analysis
   This heatmap explores relationships between rating, votes, and revenue.
   ![Correlación](images/Correlación.png)
 
-📈 Dashboard
+## 📈 Dashboard
 
-🔗 [Live Dashboard](https://datastudio.google.com/reporting/9c8f579c-9cda-4b5b-b76b-c29d45737511)
+### 🔗 [Live Dashboard](https://datastudio.google.com/reporting/9c8f579c-9cda-4b5b-b76b-c29d45737511)
 
-📊 Exploratory Visualizations
+## 📊 Exploratory Visualizations
 
-![Dashboard](IMDb_Movie_Dashboard.png)
+### ![Dashboard](IMDb_Movie_Dashboard.png)
 
 ## 🔍 Key Insights
   - Popularity drives revenue
