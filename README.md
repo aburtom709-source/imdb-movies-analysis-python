@@ -73,15 +73,12 @@ Python (Seaborn / Matplotlib):
 
 ---
 
-## 📈 Dashboard
-
-🔗 [Live Dashboard](https://datastudio.google.com/reporting/9c8f579c-9cda-4b5b-b76b-c29d45737511)
-
----
-
 ## 📊 Exploratory Visualizations
 
 ![Dashboard](IMDb_Movie_Dashboard.png)
+
+🔗 **View Interactive Dashboard:**  
+https://datastudio.google.com/reporting/9c8f579c-9cda-4b5b-b76b-c29d45737511
 
 ---
 
