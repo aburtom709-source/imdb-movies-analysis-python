@@ -9,6 +9,8 @@ An end-to-end workflow was built using:
   - SQL (analytical queries with SQLite)
   - Looker Studio (interactive dashboard)
 
+---
+
 ## 🎯 Business Questions
 1. What makes a movie generate more revenue?
 2. Which genres combine high revenue and strong ratings?
@@ -18,9 +20,13 @@ An end-to-end workflow was built using:
 6. Which actors consistently appear in successful movies?
 7. How have revenue, ratings, and production evolved over time?
 
+---
+
 ## 🗂 Dataset
 - Source: Harshit Shankhdhar
 - Name: IMDB Movies Dataset
+
+---
 
 ## ⚙️ Methodology
 ### 1. Data Cleaning (Python)
@@ -52,7 +58,7 @@ An end-to-end workflow was built using:
 ---
 
 ### 4. Visualization
-- Python (Seaborn / Matplotlib):
+Python (Seaborn / Matplotlib):
   #### Top Genres by Revenue
   This chart highlights which genres generate the highest average revenue.
   ![Top Generos por Ingreso](images/Top_generos_por_ingresos.png)
@@ -65,13 +71,19 @@ An end-to-end workflow was built using:
   This heatmap explores relationships between rating, votes, and revenue.
   ![Correlación](images/Correlación.png)
 
+---
+
 ## 📈 Dashboard
 
-### 🔗 [Live Dashboard](https://datastudio.google.com/reporting/9c8f579c-9cda-4b5b-b76b-c29d45737511)
+🔗 [Live Dashboard](https://datastudio.google.com/reporting/9c8f579c-9cda-4b5b-b76b-c29d45737511)
+
+---
 
 ## 📊 Exploratory Visualizations
 
-### ![Dashboard](IMDb_Movie_Dashboard.png)
+![Dashboard](IMDb_Movie_Dashboard.png)
+
+---
 
 ## 🔍 Key Insights
   - Popularity drives revenue
@@ -86,6 +98,8 @@ An end-to-end workflow was built using:
     Producing more titles in a genre does not guarantee higher average revenue.
   - Genre matters more than duration
     Duration has some effect, but genre is a stronger driver of success.
+
+---
 
 ## 🛠 Technologies Used
 - Python
